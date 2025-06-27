@@ -21,7 +21,7 @@
 📍 Bay Area born & raised  
 🛠️ Focused on clean code, practical projects & pivoting into **Med-Tech**  
 🚀 Java, APIs, Python & SQL   
-🥷🏽 Stay learning. Stay sharp. Stay persistant.  
+🥷🏽 Stay learning. Stay sharp. Stay persistent.  
 💀 — — — — — — — — — — — — — — — — — — — 💀  
 
 ---
